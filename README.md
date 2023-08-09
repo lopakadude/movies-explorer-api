@@ -6,6 +6,6 @@
 
 ## Ссылки на проект
 
-IP 158.160.107.198
+IP 51.250.68.142
 
-Backend https://api.express.lopakadude.nomoredomains.xyz/
+Backend api.lopakadude.bitfilms.nomoreparties.co/
