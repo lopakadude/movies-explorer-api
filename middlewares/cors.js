@@ -1,6 +1,4 @@
 const allowedCors = [
-  'http://express.lopakadude.nomoredomains.xyz',
-  'https://express.lopakadude.nomoredomains.xyz',
   'http://localhost:3000',
 ];
 
