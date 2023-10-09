@@ -1,11 +1,25 @@
-# movies-explorer-api
-Репозиторий для приложения дипломного проекта `bitFilm`, включающий  бэкенд частm приложения со следующими возможностями: авторизации и регистрации пользователей, операции с фильмами и пользователями. 
-  
+# movies-explorer-frontend
 
-Адрес репозитория: https://github.com/lopakadude/movies-explorer-api
+Бекенд дипломной работы на курсе веб-разработки Яндекс Практикум.
 
-## Ссылки на проект
+## Запуск проекта
 
-IP 51.250.68.142
+Для запуска проекта необходимо выполнить следующие действия:
 
-Backend api.lopakadude.bitfilms.nomoreparties.co/
+1. Склонировать проект на ваш компьютер с [Github](https://github.com/lopakadude/movies-explorer-api) с помощью команды:
+```
+git clone git@github.com:lopakadude/movies-explorer-api.git
+```
+2. Установить зависимости:
+```
+npm install
+```
+3. Запустить проект:
+```
+npm run start
+```
+4. Запустить проект c hot-reload:
+```
+npm run dev
+```
+
