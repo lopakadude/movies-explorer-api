@@ -1,4 +1,4 @@
-# movies-explorer-frontend
+# movies-explorer-api
 
 Бекенд дипломной работы на курсе веб-разработки Яндекс Практикум.
 
